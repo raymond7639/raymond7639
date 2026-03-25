@@ -30,4 +30,4 @@
 
 ## 📫 Connect
 
-* Add LinkedIn here
+* (https://www.linkedin.com/in/vishal7639/)
