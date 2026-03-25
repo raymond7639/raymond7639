@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Vishal 👋
 
-<!--
-**raymond7639/raymond7639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student
+💻 Web Developer
+🚀 Building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* Languages: JavaScript, Python
+* Web: HTML, CSS
+* Tools: Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+
+* 📌 College Management System (Python + MySQL)
+* 📌 Hack-O-Phobia (Web Project)
+
+---
+
+## 📈 Currently Working On
+
+* Improving frontend skills
+* Building full-stack applications
+
+---
+
+## 📫 Connect
+
+* Add LinkedIn here
