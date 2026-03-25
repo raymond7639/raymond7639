@@ -1,33 +1,37 @@
 # Hi, I'm Vishal 👋
 
-🎓 CSE Student
-💻 Web Developer
+🎓 CSE Student | 💻 Web Developer | 🎨 UI/UX Enthusiast
 🚀 Building real-world projects
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 Tech Stack
 
-* Languages: JavaScript, Python
-* Web: HTML, CSS
-* Tools: Git, GitHub, VS Code
-
----
-
-## 🚀 Projects
-
-* 📌 College Management System (Python + MySQL)
-* 📌 Hack-O-Phobia (Web Project)
+💻 JavaScript | Python
+🌐 HTML | CSS
+🛠 Git | GitHub | VS Code
 
 ---
 
-## 📈 Currently Working On
+## 📌 Projects
 
-* Improving frontend skills
-* Building full-stack applications
+### 🔹 College Management System
+
+Python + MySQL based system to manage student data
+
+### 🔹 Hack-O-Phobia
+
+Web-based project using JavaScript
+
+---
+
+## 📈 Currently Learning
+
+* Frontend Development (React soon)
+* Full-stack development
 
 ---
 
 ## 📫 Connect
 
-* https://www.linkedin.com/in/vishal7639/
+🔗 LinkedIn: https://linkedin.com/in/vishal7639
