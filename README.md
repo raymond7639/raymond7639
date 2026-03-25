@@ -30,4 +30,4 @@
 
 ## 📫 Connect
 
-* (https://www.linkedin.com/in/vishal7639/)
+* https://www.linkedin.com/in/vishal7639/
